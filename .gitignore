@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+
