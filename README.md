@@ -104,11 +104,21 @@ Additional libraries and enterprise AI frameworks will be introduced throughout 
 
 ---
 
-## Repository Status
+**Current Version:** 1.2
 
-**Current Version:** 1.0
+### Completed
 
-Workshop 1 has been completed. Additional workshops and enterprise AI case studies will be added throughout the course.
+- Workshop 1
+- Workshop 2
+- Workshop 3
+
+### In Development
+
+- Workshop 4
+- Workshop 5
+- Workshop 6
+
+The repository is updated regularly as additional workshop materials become available.
 
 ---
 
