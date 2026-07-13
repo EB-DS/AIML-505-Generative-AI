@@ -32,8 +32,8 @@ Upon successful completion of this course, students will be able to:
 | Workshop | Topic | Status |
 |-----------|----------------------------------------------|----------------|
 | Workshop 1 | Foundations of Generative AI | Completed |
-| Workshop 2 | Prompt Engineering | In Development |
-| Workshop 3 | Enterprise AI Applications | In Development |
+| Workshop 2 | Prompt Engineering | Completed |
+| Workshop 3 | Enterprise AI Applications | Completed |
 | Workshop 4 | Retrieval-Augmented Generation (RAG) | In Development |
 | Workshop 5 | AI Agents and Enterprise Workflows | In Development |
 | Workshop 6 | Enterprise AI Capstone Project | In Development |
