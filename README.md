@@ -6,11 +6,13 @@ Graduate course materials, interactive Jupyter notebooks, enterprise AI resource
 
 ## Course Overview
 
-This repository contains the instructional materials for **AIML-505: Large Language Models and Generative Artificial Intelligence** at Indiana Wesleyan University. The course integrates theoretical foundations with interactive Jupyter notebooks, practical Python demonstrations, enterprise case studies, executive AI consulting resources, and applied Generative AI leadership exercises.
+This repository contains instructional materials for **AIML-505: Large Language Models and Generative Artificial Intelligence** at Indiana Wesleyan University. The course integrates theoretical foundations with interactive Jupyter notebooks, practical Python demonstrations, enterprise case studies, executive AI consulting resources, and applied Generative AI leadership exercises.
 
-Students explore how Large Language Models (LLMs) support business leadership, organizational decision-making, enterprise knowledge management, cybersecurity, responsible AI, AI governance, and strategic AI transformation through authentic business documents, interactive demonstrations, executive consulting frameworks, and applied programming exercises.
+Students explore how Large Language Models (LLMs) and Generative Artificial Intelligence support business leadership, organizational decision-making, enterprise knowledge management, cybersecurity, responsible AI, AI governance, and strategic AI transformation.
 
-A distinguishing feature of this course is the use of a continuous Microsoft enterprise case study. Throughout the workshops and residency experience, students analyze publicly available Microsoft corporate publications to examine how Artificial Intelligence supports enterprise strategy, governance, cybersecurity, responsible leadership, and digital transformation.
+The course emphasizes the practical application of Generative AI through authentic business documents, interactive demonstrations, enterprise case studies, executive consulting frameworks, and applied programming exercises.
+
+A distinguishing feature of the course is the use of a continuous Microsoft enterprise case study. Throughout the workshops, students analyze publicly available Microsoft corporate publications to examine how Artificial Intelligence can support enterprise strategy, governance, cybersecurity, responsible leadership, and digital transformation.
 
 ---
 
@@ -34,13 +36,13 @@ Upon successful completion of this course, students will be able to:
 ## Course Structure
 
 | Workshop | Topic | Status |
-|-----------|--------------------------------------------------------------------------|-----------|
-| Workshop 1 | Foundations of Generative Artificial Intelligence |  Completed |
-| Workshop 2 | Prompt Engineering for Enterprise AI |  Completed |
-| Workshop 3 | Enterprise AI Applications and Retrieval-Augmented Generation |  Completed |
-| Workshop 4 | AI Security, Privacy, and Responsible AI Leadership |  Completed |
-| Workshop 5 | Ethical AI Leadership and Strategic Decision-Making |  Completed |
-| Workshop 6 | Enterprise AI Capstone Project |  In Development |
+|---|---|---|
+| Workshop 1 | Foundations of Generative Artificial Intelligence | Completed |
+| Workshop 2 | Prompt Engineering for Enterprise AI | Completed |
+| Workshop 3 | Enterprise AI Applications and Retrieval-Augmented Generation | Completed |
+| Workshop 4 | AI Security, Privacy, and Responsible AI Leadership | Completed |
+| Workshop 5 | Ethical AI Leadership and Strategic Decision-Making | Completed |
+| Workshop 6 | Enterprise AI Capstone and Executive AI Consulting | Completed |
 
 ---
 
@@ -60,8 +62,6 @@ AIML-505-Generative-AI/
 ├── Workshop-04/
 ├── Workshop-05/
 ├── Workshop-06/
-│
-├── AIML-505 Residency-Executive AI Consulting/
 │   ├── AIML-505_Executive_AI_Transformation_Proposal_Template.pdf
 │   └── AIML-505_Executive_AI_Transformation_Proposal_Sample_Consulting_Report.pdf
 │
@@ -72,13 +72,15 @@ AIML-505-Generative-AI/
 └── environment.yml
 ```
 
-Each workshop contains lecture materials, supplementary Jupyter notebooks, interactive Python demonstrations, figures, datasets, and supporting instructional resources.
+Each workshop contains instructional materials, supplementary Jupyter notebooks, interactive Python demonstrations, figures, datasets, enterprise examples, and supporting course resources.
+
+Workshop 6 integrates the course concepts into an enterprise AI capstone and executive consulting experience.
 
 ---
 
 ## Microsoft Enterprise Knowledge Repository
 
-The Microsoft Enterprise Knowledge Repository serves as the primary enterprise case study throughout the course. Students use authentic Microsoft corporate publications to investigate how Generative AI is applied within a global technology organization.
+The Microsoft Enterprise Knowledge Repository serves as the primary enterprise case study throughout the course. Students use authentic, publicly available Microsoft corporate publications to investigate how Generative AI can be applied within a global technology organization.
 
 Primary resources include:
 
@@ -96,25 +98,42 @@ These resources support activities such as:
 - Retrieval-Augmented Generation (RAG)
 - AI security and governance
 - Business decision support
+- Strategic AI analysis
 - Executive AI consulting
+
+The enterprise knowledge repository allows students to work with realistic business information while connecting technical Generative AI concepts with organizational strategy and leadership.
 
 ---
 
-## AIML-505 Residency: Executive AI Consulting
+## Workshop 6: Enterprise AI Capstone and Executive AI Consulting
 
-The residency component extends the workshop experience through an executive consulting engagement in which student teams evaluate a real organization and develop an **Executive AI Transformation Proposal**.
+Workshop 6 brings together the technical, strategic, ethical, and leadership concepts developed throughout AIML-505.
 
-Students apply concepts learned throughout the course—including enterprise AI strategy, responsible AI, cybersecurity, governance, AI assistants, organizational change, and executive leadership—to produce a professional consulting report suitable for presentation to executive leadership.
+The capstone experience includes an executive consulting engagement in which students evaluate an organization and develop an **Executive AI Transformation Proposal**. The project requires students to connect Generative AI capabilities with business strategy, organizational readiness, governance, cybersecurity, responsible AI, and implementation planning.
 
-Residency resources include:
+Students apply concepts developed throughout the course, including:
+
+- Enterprise AI strategy
+- Generative AI applications
+- Retrieval-Augmented Generation
+- AI assistants and enterprise knowledge systems
+- AI security and privacy
+- Responsible AI governance
+- Organizational readiness
+- Change management
+- Risk assessment
+- Executive decision-making
+- AI transformation planning
+
+Workshop 6 supporting resources include:
 
 - Executive AI Transformation Proposal Template
 - Executive AI Transformation Proposal Sample Consulting Report
-- Enterprise AI consulting framework
+- Enterprise AI consulting guidance
 - AI governance and transformation planning resources
 - Executive presentation guidance
 
-The Microsoft sample proposal demonstrates how publicly available corporate information can be used to evaluate organizational readiness, identify AI opportunities, design an enterprise AI transformation strategy, assess risks, establish responsible AI governance, and formulate executive recommendations.
+The sample consulting report demonstrates how publicly available corporate information can be used to assess organizational readiness, identify AI opportunities, evaluate risks, establish responsible AI governance, and formulate strategic recommendations for executive leadership.
 
 ---
 
@@ -122,17 +141,21 @@ The Microsoft sample proposal demonstrates how publicly available corporate info
 
 This repository includes:
 
-- Interactive Jupyter Notebooks for each workshop
-- Practical Python demonstrations supporting Generative AI concepts
+- Interactive Jupyter notebooks supporting course concepts
+- Practical Python demonstrations for Generative AI
 - Microsoft Enterprise Knowledge Repository
 - Enterprise AI case studies
-- Prompt Engineering and Retrieval-Augmented Generation (RAG)
-- AI Security, Privacy, and Responsible AI resources
-- Ethical AI Leadership and Strategic Decision-Making frameworks
-- Executive AI Consulting Residency materials
+- Large Language Model concepts and demonstrations
+- Prompt engineering exercises
+- Retrieval-Augmented Generation workflows
+- Enterprise knowledge management applications
+- AI security and privacy resources
+- Responsible AI and governance frameworks
+- Ethical AI leadership and strategic decision-making exercises
+- Executive AI consulting resources
 - Executive AI Transformation Proposal Template
-- Sample Executive Consulting Report
-- Enterprise leadership and AI governance resources
+- Sample Executive AI Consulting Report
+- Enterprise AI transformation and leadership resources
 
 ---
 
@@ -146,7 +169,7 @@ This repository includes:
 
 ## Software and Technologies
 
-The course uses the following technologies throughout the workshops and residency activities:
+The course uses the following technologies and tools throughout the workshops:
 
 - Python
 - Jupyter Notebook
@@ -157,30 +180,55 @@ The course uses the following technologies throughout the workshops and residenc
 - IPython
 - Markdown
 - HTML
-- Git & GitHub
+- Git
+- GitHub
 
-Additional AI frameworks, enterprise development tools, cloud technologies, and Generative AI platforms are introduced throughout the course where appropriate.
+Additional AI frameworks, enterprise development tools, cloud technologies, and Generative AI platforms are introduced where appropriate to support specific course activities.
+
+---
+
+## Course Approach
+
+AIML-505 combines technical understanding with enterprise application and leadership decision-making.
+
+The course progresses from foundational Generative AI concepts toward increasingly applied enterprise scenarios:
+
+1. **Foundations** — Understanding Generative AI and Large Language Models.
+2. **Prompt Engineering** — Designing effective interactions with Generative AI systems.
+3. **Enterprise AI Applications** — Applying RAG and enterprise knowledge systems.
+4. **Security and Responsible AI** — Evaluating cybersecurity, privacy, and governance.
+5. **Ethical AI Leadership** — Applying ethical reasoning and strategic decision-making.
+6. **Enterprise AI Capstone** — Integrating technical, governance, business, and leadership concepts into an executive AI transformation proposal.
+
+This progression is designed to help students move beyond using Generative AI as an isolated technology and toward understanding how AI capabilities can be evaluated, governed, and integrated into organizational strategy.
 
 ---
 
 ## Repository Status
 
-**Current Version:** **1.5**
+**Current Version:** **1.6**
 
-### Completed
+All six AIML-505 workshops and supporting course resources are complete.
 
-- ✅ Workshop 1
-- ✅ Workshop 2
-- ✅ Workshop 3
-- ✅ Workshop 4
-- ✅ Workshop 5
-- ✅ AIML-505 Residency Executive AI Consulting Resources
+### Completed Workshops
 
-### In Development
+- Workshop 1 — Foundations of Generative Artificial Intelligence
+- Workshop 2 — Prompt Engineering for Enterprise AI
+- Workshop 3 — Enterprise AI Applications and Retrieval-Augmented Generation
+- Workshop 4 — AI Security, Privacy, and Responsible AI Leadership
+- Workshop 5 — Ethical AI Leadership and Strategic Decision-Making
+- Workshop 6 — Enterprise AI Capstone and Executive AI Consulting
 
-- 🚧 Workshop 6 – Enterprise AI Capstone Project
+### Supporting Resources
 
-The repository is continuously updated with additional instructional materials, interactive notebooks, enterprise case studies, and executive AI consulting resources.
+- Microsoft Enterprise Knowledge Repository
+- Interactive Jupyter notebooks
+- Enterprise AI case studies
+- AI security and governance resources
+- Executive AI Transformation Proposal Template
+- Executive AI Transformation Proposal Sample Consulting Report
+
+The repository may continue to receive maintenance updates, refinements, and additional instructional resources as Generative AI technologies and enterprise practices evolve.
 
 ---
 
@@ -188,16 +236,15 @@ The repository is continuously updated with additional instructional materials, 
 
 This project is distributed under the **MIT License**.
 
+See the `LICENSE` file for additional information.
+
 ---
 
 ## Instructor
 
-**Dr. Eskinder Belete**
-
-Adjunct Faculty
-
-Indiana Wesleyan University
-
+**Dr. Eskinder Belete**  
+Adjunct Faculty  
+Indiana Wesleyan University  
 Graduate Program
 
 **Course:** AIML-505 – Large Language Models and Generative Artificial Intelligence
@@ -206,4 +253,8 @@ Graduate Program
 
 ## Acknowledgments
 
-The Microsoft corporate documents included in this repository are publicly available publications and are provided solely for educational purposes. Microsoft and related trademarks are the property of Microsoft Corporation. All other trademarks, copyrights, and intellectual property remain the property of their respective owners.
+The Microsoft corporate documents referenced or included in this repository are publicly available publications used solely for educational purposes.
+
+Microsoft and related trademarks are the property of Microsoft Corporation. All other trademarks, copyrights, and intellectual property remain the property of their respective owners.
+
+The inclusion of publicly available corporate materials does not imply endorsement of this course or repository by Microsoft Corporation.
