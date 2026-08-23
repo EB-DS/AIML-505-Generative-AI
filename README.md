@@ -42,7 +42,7 @@ Upon successful completion of this course, students will be able to:
 | Workshop 3 | Enterprise AI Applications and Retrieval-Augmented Generation | Completed |
 | Workshop 4 | AI Security, Privacy, and Responsible AI Leadership | Completed |
 | Workshop 5 | Ethical AI Leadership and Strategic Decision-Making | Completed |
-| Workshop 6 | Enterprise AI Capstone and Executive AI Consulting | Completed |
+| Workshop 6 | Enterprise AI Capstone Project | Completed |
 
 ---
 
@@ -50,6 +50,10 @@ Upon successful completion of this course, students will be able to:
 
 ```text
 AIML-505-Generative-AI/
+│
+├── AIML-505 Executive AI Consulting/
+│   ├── AIML-505_Executive_AI_Transformation_Proposal_Template.pdf
+│   └── AIML-505_Executive_AI_Transformation_Proposal_Sample_Consulting_Report.pdf
 │
 ├── Microsoft-Enterprise-Knowledge-Repository/
 │   ├── datasets/
@@ -62,19 +66,17 @@ AIML-505-Generative-AI/
 ├── Workshop-04/
 ├── Workshop-05/
 ├── Workshop-06/
-│   ├── AIML-505_Executive_AI_Transformation_Proposal_Template.pdf
-│   └── AIML-505_Executive_AI_Transformation_Proposal_Sample_Consulting_Report.pdf
 │
 ├── CHANGELOG.md
 ├── LICENSE
 ├── README.md
-├── requirements.txt
-└── environment.yml
+├── environment.yml
+└── requirements.txt
 ```
 
 Each workshop contains instructional materials, supplementary Jupyter notebooks, interactive Python demonstrations, figures, datasets, enterprise examples, and supporting course resources.
 
-Workshop 6 integrates the course concepts into an enterprise AI capstone and executive consulting experience.
+The Executive AI Consulting directory contains resources supporting the course's applied executive consulting and AI transformation activities.
 
 ---
 
@@ -105,35 +107,45 @@ The enterprise knowledge repository allows students to work with realistic busin
 
 ---
 
-## Workshop 6: Enterprise AI Capstone and Executive AI Consulting
+## AIML-505 Executive AI Consulting
+
+The Executive AI Consulting component extends the workshop experience through an applied consulting engagement in which student teams evaluate an organization and develop an **Executive AI Transformation Proposal**.
+
+Students apply concepts developed throughout the course, including enterprise AI strategy, Generative AI applications, responsible AI, cybersecurity, governance, organizational change, and executive leadership.
+
+The consulting engagement emphasizes the integration of technical AI capabilities with business strategy and responsible organizational implementation.
+
+Executive AI Consulting resources include:
+
+- Executive AI Transformation Proposal Template
+- Executive AI Transformation Proposal Sample Consulting Report
+- Enterprise AI consulting framework
+- AI governance and transformation planning resources
+- Executive presentation guidance
+
+The sample consulting report demonstrates how publicly available corporate information can be used to assess organizational readiness, identify AI opportunities, design an enterprise AI transformation strategy, evaluate risks, establish responsible AI governance, and formulate recommendations for executive leadership.
+
+---
+
+## Workshop 6: Enterprise AI Capstone Project
 
 Workshop 6 brings together the technical, strategic, ethical, and leadership concepts developed throughout AIML-505.
 
-The capstone experience includes an executive consulting engagement in which students evaluate an organization and develop an **Executive AI Transformation Proposal**. The project requires students to connect Generative AI capabilities with business strategy, organizational readiness, governance, cybersecurity, responsible AI, and implementation planning.
+The capstone experience provides students with an opportunity to apply Generative AI concepts to a comprehensive business problem. Students evaluate organizational needs, identify appropriate AI capabilities, consider implementation requirements and risks, and communicate recommendations from a business and leadership perspective.
 
-Students apply concepts developed throughout the course, including:
+The workshop reinforces concepts developed throughout the course, including:
 
 - Enterprise AI strategy
 - Generative AI applications
 - Retrieval-Augmented Generation
-- AI assistants and enterprise knowledge systems
 - AI security and privacy
 - Responsible AI governance
 - Organizational readiness
-- Change management
 - Risk assessment
-- Executive decision-making
+- Strategic decision-making
 - AI transformation planning
 
-Workshop 6 supporting resources include:
-
-- Executive AI Transformation Proposal Template
-- Executive AI Transformation Proposal Sample Consulting Report
-- Enterprise AI consulting guidance
-- AI governance and transformation planning resources
-- Executive presentation guidance
-
-The sample consulting report demonstrates how publicly available corporate information can be used to assess organizational readiness, identify AI opportunities, evaluate risks, establish responsible AI governance, and formulate strategic recommendations for executive leadership.
+Workshop 6 serves as the culmination of the course by connecting technical AI knowledge with responsible leadership and enterprise decision-making.
 
 ---
 
@@ -198,9 +210,11 @@ The course progresses from foundational Generative AI concepts toward increasing
 3. **Enterprise AI Applications** — Applying RAG and enterprise knowledge systems.
 4. **Security and Responsible AI** — Evaluating cybersecurity, privacy, and governance.
 5. **Ethical AI Leadership** — Applying ethical reasoning and strategic decision-making.
-6. **Enterprise AI Capstone** — Integrating technical, governance, business, and leadership concepts into an executive AI transformation proposal.
+6. **Enterprise AI Capstone** — Integrating technical, governance, business, and leadership concepts into an applied AI strategy.
 
-This progression is designed to help students move beyond using Generative AI as an isolated technology and toward understanding how AI capabilities can be evaluated, governed, and integrated into organizational strategy.
+The Executive AI Consulting component complements this progression by requiring students to synthesize course concepts into a professional AI transformation proposal and executive presentation.
+
+This course structure is designed to help students move beyond using Generative AI as an isolated technology and toward understanding how AI capabilities can be evaluated, governed, and integrated into organizational strategy.
 
 ---
 
@@ -217,7 +231,7 @@ All six AIML-505 workshops and supporting course resources are complete.
 - Workshop 3 — Enterprise AI Applications and Retrieval-Augmented Generation
 - Workshop 4 — AI Security, Privacy, and Responsible AI Leadership
 - Workshop 5 — Ethical AI Leadership and Strategic Decision-Making
-- Workshop 6 — Enterprise AI Capstone and Executive AI Consulting
+- Workshop 6 — Enterprise AI Capstone Project
 
 ### Supporting Resources
 
@@ -225,6 +239,7 @@ All six AIML-505 workshops and supporting course resources are complete.
 - Interactive Jupyter notebooks
 - Enterprise AI case studies
 - AI security and governance resources
+- AIML-505 Executive AI Consulting resources
 - Executive AI Transformation Proposal Template
 - Executive AI Transformation Proposal Sample Consulting Report
 
